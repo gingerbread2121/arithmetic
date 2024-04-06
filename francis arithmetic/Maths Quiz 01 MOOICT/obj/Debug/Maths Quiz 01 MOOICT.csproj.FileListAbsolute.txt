@@ -1,0 +1,10 @@
+C:\Users\PC\Videos\Create-a-Math-Quiz-Game-in-Windows-Form-V1-master\Maths Quiz 01 MOOICT\bin\Debug\Maths Quiz 01 MOOICT.exe.config
+C:\Users\PC\Videos\Create-a-Math-Quiz-Game-in-Windows-Form-V1-master\Maths Quiz 01 MOOICT\bin\Debug\Maths Quiz 01 MOOICT.exe
+C:\Users\PC\Videos\Create-a-Math-Quiz-Game-in-Windows-Form-V1-master\Maths Quiz 01 MOOICT\bin\Debug\Maths Quiz 01 MOOICT.pdb
+C:\Users\PC\Videos\Create-a-Math-Quiz-Game-in-Windows-Form-V1-master\Maths Quiz 01 MOOICT\obj\Debug\Maths Quiz 01 MOOICT.csproj.AssemblyReference.cache
+C:\Users\PC\Videos\Create-a-Math-Quiz-Game-in-Windows-Form-V1-master\Maths Quiz 01 MOOICT\obj\Debug\Maths_Quiz_01_MOOICT.Form1.resources
+C:\Users\PC\Videos\Create-a-Math-Quiz-Game-in-Windows-Form-V1-master\Maths Quiz 01 MOOICT\obj\Debug\Maths_Quiz_01_MOOICT.Properties.Resources.resources
+C:\Users\PC\Videos\Create-a-Math-Quiz-Game-in-Windows-Form-V1-master\Maths Quiz 01 MOOICT\obj\Debug\Maths Quiz 01 MOOICT.csproj.GenerateResource.cache
+C:\Users\PC\Videos\Create-a-Math-Quiz-Game-in-Windows-Form-V1-master\Maths Quiz 01 MOOICT\obj\Debug\Maths Quiz 01 MOOICT.csproj.CoreCompileInputs.cache
+C:\Users\PC\Videos\Create-a-Math-Quiz-Game-in-Windows-Form-V1-master\Maths Quiz 01 MOOICT\obj\Debug\Maths Quiz 01 MOOICT.exe
+C:\Users\PC\Videos\Create-a-Math-Quiz-Game-in-Windows-Form-V1-master\Maths Quiz 01 MOOICT\obj\Debug\Maths Quiz 01 MOOICT.pdb
